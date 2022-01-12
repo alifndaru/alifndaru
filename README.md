@@ -15,14 +15,6 @@
            height="140"
        />
     </a>
-    <a href="https://github.com/alifndaru">
-      <img
-           src="https://github-readme-stats.vercel.app/api/pin/?username=alifndaru&repo=github-readme-stats&show_icons=true&theme=onedark&layout=compact&border_radius=24"
-           alt="Github Stats"
-           align="center"
-           height="140"
-       />
-    </a>
   </p>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alifndaru&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=alifndaru&theme=prussian&date_format=j%20M%5B%20Y%5Ds)
   ## Let's Connect
