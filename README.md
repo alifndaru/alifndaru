@@ -1,7 +1,7 @@
 <p>
     <a href="https://github.com/alifndaru">
       <img
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifndaru)](https://github.com/alifndaru/github-readme-stats)"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifndaruhttps://github.com/alifndaru/github-readme-stats"
            alt="alifndaru's most used languange"
            align="center"
            height="140"
