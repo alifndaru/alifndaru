@@ -1,7 +1,7 @@
 <p>
     <a href="https://github.com/alifndaru">
       <img
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifndaru"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifndaru&show_icons=true&theme=THEME_NAME=prussian&border_radius=24"
            alt="alifndaru's most used languange"
            align="center"
            height="140"
@@ -9,7 +9,7 @@
     </a>
     <a href="https://github.com/alifndaru">
       <img
-           src="https://github-readme-stats.vercel.app/api?username=alifndaru&show_icons=true&theme=THEME_NAME=radical"
+           src="https://github-readme-stats.vercel.app/api?username=alifndaru&show_icons=true&theme=THEME_NAME=prussian&border_radius=24"
            alt="Github Stats"
            align="center"
            height="140"
