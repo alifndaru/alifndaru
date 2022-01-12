@@ -24,7 +24,7 @@
     <a href="https://www.linkedin.com/in/alif-ndaru-kusuma" target="_blank" title="linkedin">
         <img align="center" src="/icons/linkedin-png-5852.png" alt="linkedin" style="height:24px"/>
     </a> &nbsp;
-    <a href="https://instagram.com/alifffxy?utm_medium=copy_link" target="_blank" title="linkedin">
+    <a href="https://instagram.com/alifffxy?utm_medium=copy_link" target="_blank" title="Instagram">
         <img align="center" src="/icons/logo-instagram-png-13560.png" alt="instagram" style="height:24px"/>
     </a> &nbsp;
   </p>
