@@ -1,7 +1,7 @@
 <p>
     <a href="https://github.com/alifndaru">
       <img
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifndaru&show_icons=true&theme=merko&layout=compact&border_radius=24"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifndaru&show_icons=true&theme=onedark&layout=compact&border_radius=24"
            alt="alifndaru's most used languange"
            align="center"
            height="140"
@@ -9,7 +9,7 @@
     </a>
     <a href="https://github.com/alifndaru">
       <img
-           src="https://github-readme-stats.vercel.app/api?username=alifndaru&show_icons=true&theme=merko&layout=compact&border_radius=24"
+           src="https://github-readme-stats.vercel.app/api?username=alifndaru&show_icons=true&theme=onedark&layout=compact&border_radius=24"
            alt="Github Stats"
            align="center"
            height="140"
@@ -17,7 +17,7 @@
     </a>
   </p>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alifndaru&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=alifndaru&theme=prussian&date_format=j%20M%5B%20Y%5Ds)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alifndaru&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=alifndaru&theme=prussian&date_format=j%20M%5B%20Y%5Ds)
   
   ## Let's Connect
   <p>
