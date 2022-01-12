@@ -9,7 +9,7 @@
     </a>
     <a href="https://github.com/alifndaru">
       <img
-           src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"
+         src="https://github-readme-stats.vercel.app/api?username=alifndaru&show_icons=true&theme=onedark&layout=compact&border_radius=24"
            alt="Github Stats"
            align="center"
            height="140"
