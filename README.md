@@ -5,18 +5,17 @@ Welcome to my GitHub profile! I am a Full Stack / Backend Engineer, DevOps enthu
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <a href="https://github.com/alifndaru">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifndaru&show_icons=true&theme=onedark&layout=compact&border_radius=24&count_private=true&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifndaru&theme=onedark"
       alt="Most Used Languages"
       height="140"
     />
   </a>
   <a href="https://github.com/alifndaru">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=alifndaru&show_icons=true&theme=onedark&layout=compact&border_radius=24&count_private=true&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=alifndaru&show_icons=true&theme=onedark"
       alt="GitHub Stats"
       height="140"
     />
@@ -24,7 +23,9 @@ Welcome to my GitHub profile! I am a Full Stack / Backend Engineer, DevOps enthu
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alifndaru&theme=onedark&date_format=j%20M%20Y)](https://github-readme-streak-stats.herokuapp.com/?user=alifndaru&theme=prussian&date_format=j%20M%20Y)
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=alifndaru&theme=onedark">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifndaru&theme=onedark" alt="GitHub Streak" height="140"/>
+  </a>
 </p>
 
 ---
