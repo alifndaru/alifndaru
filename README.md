@@ -50,9 +50,13 @@ Welcome to my GitHub profile! I am a Full Stack / Backend Engineer, DevOps enthu
   <img alt="MySQL" height="28px" src="https://cdn-icons-png.flaticon.com/512/179/179457.png" />
   <img alt="Git" height="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />
   <img alt="Terminal" height="28px" src="https://cdn-icons-png.flaticon.com/512/2089/2089676.png" />
+  <img alt="Linux" height="28px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
+  <img alt="Docker" height="28px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
   <img alt="PHP" height="28px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
-  <img alt="Python" height="28px" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" />
   <img alt="Laravel" height="28px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
+  <img alt="Python" height="28px" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" />
+  <img alt="Golang" height="28px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+  <img alt="Vue.js" height="28px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 </p>
 
 ---
