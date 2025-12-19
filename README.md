@@ -46,7 +46,6 @@ Welcome to my GitHub profile! I am a Full Stack / Backend Engineer, DevOps enthu
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img alt="Visual Studio Code" height="28px" src="https://cdn-icons-png.flaticon.com/512/888/888857.png" />
   <img alt="MySQL" height="28px" src="https://cdn-icons-png.flaticon.com/512/179/179457.png" />
   <img alt="Git" height="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />
   <img alt="Terminal" height="28px" src="https://cdn-icons-png.flaticon.com/512/2089/2089676.png" />
